@@ -30,22 +30,22 @@ https://cloud.google.com/translate/
 ## How to Import
 
 The following libraries are generated in a "TranslationLibraryGenerator\bin\Release" folder.  
-Drag and drop these libraries into the Assets/Plugins/x86_64 folder of the Unity project.
-+ Google.Api.Gax.dll
-+ Google.Api.Gax.Rest.dll
-+ Google.Apis.Auth.dll
-+ Google.Apis.Auth.PlatformServices.dll
-+ Google.Apis.Core.dll
-+ Google.Apis.dll
-+ Google.Apis.PlatformServices.dll
-+ Google.Apis.Translate.v2.dll
-+ Google.Cloud.Translation.V2.dll
-+ System.Diagnostics.DiagnosticSource.dll
-+ System.Interactive.Async.dll
-+ System.Net.Http.dll
-+ System.Security.Cryptography.Algorithms.dll
-+ System.Security.Cryptography.Encoding.dll
-+ System.Security.Cryptography.Primitives.dll
+Drag and drop these libraries into the Assets/Plugins/x86_64 folder of the Unity project.  
+1. Google.Api.Gax.dll
+1. Google.Api.Gax.Rest.dll
+1. Google.Apis.Auth.dll
+1. Google.Apis.Auth.PlatformServices.dll
+1. Google.Apis.Core.dll
+1. Google.Apis.dll
+1. Google.Apis.PlatformServices.dll
+1. Google.Apis.Translate.v2.dll
+1. Google.Cloud.Translation.V2.dll
+1. System.Diagnostics.DiagnosticSource.dll
+1. System.Interactive.Async.dll
+1. System.Net.Http.dll
+1. System.Security.Cryptography.Algorithms.dll
+1. System.Security.Cryptography.Encoding.dll
+1. System.Security.Cryptography.Primitives.dll
 
 ## License
 
