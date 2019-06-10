@@ -23,7 +23,7 @@ https://cloud.google.com/translate/
 3. Run an executable file.  
 ```
 > cd TranslationLibraryGenerator\bin\Release
-> TranslationLibraryGenerator "I have a pen" "ja" "en"  
+> TranslationLibraryGenerator "I have an apple" "ja" "en"  
 りんごを持っています。
 ```
 
