@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 And you need to agree to the following license to use the generated libraries.
 </span>  
 https://dotnet.microsoft.com/dotnet_library_license.htm
-
+  
 Library list
 
 <table>
