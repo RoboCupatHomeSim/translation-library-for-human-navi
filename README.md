@@ -49,7 +49,7 @@ Drag and drop these libraries into the Assets/Plugins/x86_64 folder of the Unity
 14. System.Security.Cryptography.Encoding.dll
 15. System.Security.Cryptography.Primitives.dll
 
-![ImportLibraries](https://github.com/PartnerRobotChallengeVirtual/translation-library-for-human-navi/images/ImportLibraries.png)
+![ImportLibraries](https://github.com/PartnerRobotChallengeVirtual/translation-library-for-human-navi/blob/master/images/ImportLibraries.png)
 
 ## License
 
