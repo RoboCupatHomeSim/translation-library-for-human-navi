@@ -66,7 +66,7 @@ Library list
 <tr><th> No </th><th> Name </th><th> Version </th><th> License </th></tr>
 <tr>
   <td> 1 </td><td> Google.Api.Gax.dll </td>
-  <td> [Google.Api.Gax 2.7.0](https://www.nuget.org/packages/Google.Api.Gax/2.7.0) </td>
+  <td> <a href="https://www.nuget.org/packages/Google.Api.Gax/2.7.0">Google.Api.Gax 2.7.0</a> </td>
   <td> [License](https://www.nuget.org/packages/Google.Api.Gax/2.7.0/License) </td>
 </tr>
 <tr>
