@@ -20,7 +20,7 @@ The purpose of this project is to generate libraries, but it is also possible to
 
 1. Build the execution environment of Google Cloud Translation.  
 https://cloud.google.com/translate/  
-([reference information](Wiki/Home) at wiki)
+([reference information](https://github.com/PartnerRobotChallengeVirtual/translation-library-for-human-navi/wiki) at wiki)
 2. Launch a command prompt.
 3. Run an executable file.  
 ```
