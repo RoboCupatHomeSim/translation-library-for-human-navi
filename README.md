@@ -57,8 +57,8 @@ Drag and drop these libraries into the Assets/Plugins/x86_64 folder of the Unity
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ```diff
-And you need to agree to the following license to use the generated libraries.
-https://dotnet.microsoft.com/dotnet_library_license.htm  
+--- And you need to agree to the following license to use the generated libraries.   ---
+--- https://dotnet.microsoft.com/dotnet_library_license.htm                          ---
 ```  
   <br>  
   <br>  
