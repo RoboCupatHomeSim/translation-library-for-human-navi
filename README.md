@@ -2,6 +2,9 @@
 This project generate translation libraries using Visual Studio.  
 The libraries are used by Human Navigation.
 
+This repository is not used because we put the redistributable libraries in the common-unity.   
+It is just reference information.
+
 ## Prerequisites
 
 - Windows 10
