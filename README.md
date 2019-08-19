@@ -23,7 +23,7 @@ The purpose of this project is to generate libraries, but it is also possible to
 
 1. Build the execution environment of Google Cloud Translation.  
 https://cloud.google.com/translate/  
-([reference information](https://github.com/PartnerRobotChallengeVirtual/translation-library-for-human-navi/wiki) at wiki)
+([reference information](https://github.com/RoboCupatHomeSim/translation-library-for-human-navi/wiki) at wiki)
 2. Launch a command prompt.
 3. Run an executable file.  
 ```
@@ -53,7 +53,7 @@ Drag and drop these libraries into the Assets/Plugins/x86_64 folder of the Unity
 14. System.Security.Cryptography.Encoding.dll
 15. System.Security.Cryptography.Primitives.dll
 
-![ImportLibraries](https://github.com/PartnerRobotChallengeVirtual/translation-library-for-human-navi/blob/master/images/ImportLibraries.png)
+![ImportLibraries](https://github.com/RoboCupatHomeSim/translation-library-for-human-navi/blob/master/images/ImportLibraries.png)
 
 ## License
 
